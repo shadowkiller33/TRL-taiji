@@ -1,0 +1,14 @@
+{
+    "Token":"WTXplxeP72glOoaRU5HqCw",
+    "business_flag":"AILab_Seattle",
+    "task_flag":"inter_extrapolate11",
+    "model_local_file_path":"/apdcephfs/private_lingfelshen/trl/trl-main/examples/stack_llama",
+    "image_full_name":"mirrors.tencent.com/ai-lab-seattle/lmflow:v7",
+    "host_num":1,
+    "host_gpu_num":1,
+    "GPUName":"V100",
+    "cuda_version":"11.0",
+    "is_elasticity":false,
+    "exec_start_in_all_mpi_pods": true,
+    "start_cmd":"bash start.sh"
+}
